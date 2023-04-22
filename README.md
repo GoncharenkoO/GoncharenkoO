@@ -5,3 +5,21 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yermakovaa&show_icons=true&include_all_commits=true)](https://github.com/yermakovaa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yermakovaa&layout=compact)](https://github.com/yermakovaa/github-readme-stats)
 
+---
+
+## 🏆Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaksymBora&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+### Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" itle="atom" width="40" height="40"/>&nbsp;
+
+---
+
+### My Stats
+<div id="stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaksymBora&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksymBora&theme=default" />
+</div>
