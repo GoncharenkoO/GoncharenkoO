@@ -7,14 +7,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncharenkoo&layout=compact)](https://github.com/GoncharenkoO/github-readme-stats)
 ---
 
-## 🏆Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=GoncharenkoO&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br />
-
-
-### My Stats
-<div id="stats">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GoncharenkoO&theme=default" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoncharenkoO&theme=default" />
-</div>
